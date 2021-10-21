@@ -1,0 +1,51 @@
+.nav-bar{
+    background-color: black;
+    color: white;
+    font-size: 4rem;
+    padding-left: 30px;
+}
+body{
+    background-color: beige;
+    text-align: center;
+    font-family: 'Fira Sans',sans-serif;
+}
+.container{
+    margin-top: 10px;
+}
+#txt-input{
+    margin: 2rem auto;
+     display: block;
+     width: 400px;
+     height: 70px;
+     border-radius: 8px;
+     font-size: 3rem;
+
+}
+.btn-translate{
+    text-align: center;
+    background-color: #FEDC97;
+    padding: 1em 3em;
+    font-size: 1rem;
+}
+#output{
+    margin: 2rem auto;
+    width: 400px;
+    height: 70px;
+     border-radius: 8px;
+     font-size: 3rem;
+
+}
+.output-txt{
+    font-size: 3rem;
+}
+.footer{
+    
+    margin: auto;
+    text-align: center;
+    font-style: italic;
+    background-color: #001A23;
+    color: #D4D2D5;
+    height: 40px;
+    width: 400px;
+    padding: 1rem;
+}
